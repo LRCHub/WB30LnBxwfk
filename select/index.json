@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Kiara Tiara",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-22T06:17:54.285963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kiara Tiara",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_Kiara_Tiara_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiara Tiara",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_Kiara_Tiara_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kiara Tiara (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_Kiara_Tiara_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kiara Tiara",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_Kiara_Tiara_=LOVE.txt"
+    }
+  ]
+}
